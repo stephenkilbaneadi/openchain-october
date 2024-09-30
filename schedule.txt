@@ -1,0 +1,42 @@
+Rough breakdown of posts.
+Tue 1 Oct - Fri 4 Oct
+Intro, IP protection, Copyright.
+Tue 01	Intro
+Wed 02	IP is valuable, Methods of protection.
+Thu 03	Copyright
+Fri 04	Recap
+
+Mon 7 Oct - Fri 11 Oct
+Software licenses, generally.
+Proprietary licenses.
+Mon 07	Built on copyright.
+Tue 08	Rights
+Wed 09	Restrictions
+Thu 10	Protections
+Fri 11	Recap
+
+Mon 14 Oct - 18 Oct
+Open source licenses
+Permissive licenses
+Mon 14	Also built on copyright, different intent
+Tue 15	Permissive licenses
+Wed 16	BSD and MIT
+Thu 17	Apache
+Fri 18	Recap
+
+Mon 21 Oct - Fri 25 Oct
+Weak and strong copyleft.
+Mon 21	Copyleft vs copyright.
+Tue 22	GPL
+Wed 23	LGPL
+Thu 24	
+Fri 25	Recap
+
+
+Mon 28 Oct - Thu 31 Oct
+Common problems
+Halloween special
+Mon 28	No license
+Tue 29	?
+Wed 30	?
+Thu 31	Halloween special

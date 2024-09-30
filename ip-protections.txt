@@ -1,0 +1,190 @@
+Copyright (c) 2024 Analog Devices, Inc.
+
+Opening Scene
+
+1.
+BLAKE: It took a big push, but my team has finally got the new version of the product ready.
+JENNA: Just in time! The customer wants to review it on Monday.
+BLAKE: Monday? No problem – I’ll email it across to them now.
+JENNA: Wait – you’re just going to give it to them? The company’s invested a lot of R&D into this new product. It contains a lot of new Intellectual Property, and you’re just going to hand it over to them like that?
+BLAKE: No problem – we’ve already got an NDA in place, so we’re covered.
+
+2.
+-- RECORD SCRATCH --
+-- FREEZE-FRAME --
+
+JENNA: Yep. That's me. And that's a typical Monday for me.
+JENNA: Just another watercooler conversation with Blake causally mentioning he's about to torpedo years of R&D.
+NARRATOR: Does Blake do this a lot?
+JENNA: Oh, great. Now I'm hearing disembodied voices.
+
+3.
+NARRATOR: No, no. It's fine. I'm a narrative device.
+JENNA: Well, as long as my rapid onset of insanity is employing literary techniques, I guess that's fine.
+NARRATOR: Can we get back to Blake?
+JENNA: Sure.
+NARRATOR: Thank you.
+
+4.
+NARRATOR: So, tell me about Blake?
+JENNA: He's enthusiastic. He has good ideas. But he's completely ignorant of our IP management procedures and why we have them.
+NARRATOR: Sounds like a good example for OpenChain October, then.
+
+5.
+JENNA: OpenChain October? Oh, is that that thing where you guys post something educational each day about open source license compliance processes?
+NARRATOR: (dryly) Well, it worked last time.
+JENNA: Did you just say "dryly"? In parentheses.
+NARRATOR: Narrative device. Go with it.
+JENNA: Forget I mentioned it.
+
+6.
+NARRATOR: But yes: each day, we'll follow your experiences with Blake, and see what we can can learn. With your permission, of course.
+JENNA: Oh, I like it when my hallucinations understand consent.
+NARRATOR: Be nice.
+NARRATOR: So, are you in?
+JENNA: Sure.
+NARRATOR: Great! Let's kick off tomorrow.
+
+
+
+1. 
+JENNA: Okay, Blake. Let's start with the basics. You know we've put a lot of R&D into this product and developed some new IP, yes?
+BLAKE: Sure. That's why the customer wants it so urgently.
+JENNA: Right. But what *is* "IP".
+BLAKE: Uh, "Intellectual Property". Duh.
+JENNA: No, I mean, what counts as "Intellectual Property"?
+BLAKE: Oh, that's easy! It's.... Er... It's... well...
+JENNA: I'll wait.
+
+2.
+JENNA: Let me save you some trouble.
+JENNA: WIPO - that's the World Intellectual Property Organization - defines "Intellectual Property" as “creations of the mind, such as: Inventions; literary and artistic works; designs; and symbols, names and images used in commerce”.
+BLAKE: "Creations of the Mind" sound like a prog-rock band.
+JENNA: Fair.
+
+3.
+JENNA: Organisations that create IP - like us - want to ensure that our IP is protected, and that we are compensated fairly when we allow others to use our IP.
+JENNA: That's how organisations like us make money.
+JENNA: How do we protect our IP?
+BLAKE: Oh god. This isn't going to be another mandatory cybersecurity lecture, is it?
+JENNA: Worse.
+BLAKE: ...did you just crack your knuckles?
+
+4.
+JENNA: Yes, there's things like physical security and cyber security, but we start with *legal* protections.
+BLAKE: Oh, you mean the police?
+JENNA: 
+BLAKE:
+JENNA: No.
+
+5.
+JENNA: By "legal" protection, I mean things that are recognised by legal jurisdictions.
+JENNA: There are different methods you can use to protect IP, depending on the kind of IP it is.
+JENNA: This includes patents, copyrights, trade marks, non-disclosure agreements, trade secrets and licenses, among others.
+BLAKE: Oh god. This is going to involve PowerPoint slides, isn't it?
+
+
+1.
+NARRATOR: We create value by creating innovative or enabling concepts. In turn, these innovations enable our customers to add additional value to their own products. Intellectual Property Protection protects our R&D investment, and our business, by allocating ownership to our creations, and by recognizing others’ creations. This identifies what is “ours”, and what is “theirs”, and allows us to safely share our innovations with our customers – for a price!
+[ IMAGE: Flow of IP from "Our Company" to Tier 1 to OEM to end customer. At each stage, the party adds their own IP onto the pile. In the other direction, money flows back from the customer, ultimately to "Our Company". ]
+
+2.
+NARRATOR: If our company does not properly protect its IP, we may find that we are sharing our innovations too freely, allowing others to profit from our investments without compensating us in return. Effectively, we would be funding R&D so that they can make money instead of us.
+[ IMAGE: Same as above, but with the return flow of money from our first customer back to Our company cut off or broken or disappearing in a puff of smoke. ]
+ 
+3.
+NARRATOR: Our company expects others to respect our IP, and to compensate us accordingly. Equally, Our company respects others’ IP as well. We must make sure that we only use others’ IP with their permission, and in accordance with any conditions of that use. Otherwise, we could be exposing ourselves to significant legal and financial liability, and we could seriously damage our reputation and our business.
+[ IMAGE: Same image again, but now extending the flow in the other direction, so that "Our Company" is also receiving some input IP from ACME Corp, and money flows from "Our Company" back to ACME Corp. ]
+
+4.
+BLAKE: See? I said there'd be slides.
+JENNA: Be nice.
+
+
+1.
+JENNA: Let's start with patents.
+JENNA: Patents protect inventions. They only apply to physical embodiments of those inventions, however. You cannot patent “a method for tying bowties”, but you can patent a machine that implements that method for tying bowties. Patents encourage innovation by granting the inventor exclusive rights to manufacture the invention.
+BLAKE: It's a silly idea, anyway - you can buy bow ties that just clip on. No tying necessary. Keep up, people!
+
+2.
+JENNA: Copyright protects a particular creative expression. For example, you cannot copyright a story, but you can copyright the particular combination and sequence of words that tell that story. Copyright is used to protect media such as books, movies, photographs, music and other artforms. Copyright is also used to protect software, as software is a particular sequence of instructions to implement an abstract concept. It is the particular sequence of instructions that is protected.
+
+3.
+JENNA: Copyright literally means that the creator has the right to create copies. Others do not have that right, unless the owner of the copyright grants them that right.
+JENNA: We'll come back to this when we talk about licenses.
+NARRATOR: Foreshadowing! Nice!
+JENNA: Hush.
+NARRATOR: What? I'm a narrative device - of course I like it when other literary devices are used.
+
+4.
+JENNA: Trademarks are used to identify and distinguish a single source or origin of goods and services in a particular marketplace. Trademarks represent the goodwill that trademark owners have established by marketing their products and services through names, brands, symbols, slogans, colors, and even sounds. 
+
+5.
+JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
+
+6. 
+JENNA: A trade secret is 1) information that is not generally known outside an organization’s control, 2) the organization derives economic value or business advantage from that information not being generally known, and 3) the organization makes reasonable efforts to maintain the secrecy of that information.  This type of information may include client lists, marketing plans, production processes, chemical formulas, and proprietary source code.
+BLAKE: "Chemical formulas"? We're a software company.
+JENNA: It's just an example, Blake.
+
+7.
+JENNA: A license is a legal agreement whereby the owner of the IP grants another party some rights to that IP, providing they agree to adhere to certain conditions – such as paying for the privilege. In particular, software is typically licensed, not sold. As the author of our software, our company owns the copyright to that software, and so owns all the rights to that IP, but we can also grant specific rights to the software to our customers, through a license that the customer accepts.
+
+Knowledge Check
+
+We could post these questions, and then post answers the next day, or use some other method.
+
+Examples, presented in a random order and requiring some checkbox/selection:
+•	Our company sells a sensor that implements a new type of non-invasive blood test. What stops our competitors manufacturing copies of this new test? (Patents)
+•	Our company has a computer program for modelling energy efficiency in wind turbines. What stops our competitors from copying this program and using it in their products? (Copyright)
+•	A competitor has acquired one of Our company’s chips and removed the packaging to reveal the layers below. What stops them from copying those layers and creating their own chips? (Mask Works)
+•	A competitor makes their own product which is similar to an Our company product. What stops them selling it under the same name, and taking our market? (Trademarks)
+•	Our company has shared our roadmap plans with some of our lead customers. What stops the customers sharing our plans with our competitors? (Non-Disclosure Agreements)
+•	What stops our competitors from hiring our staff away from us, and learning of our marketing and investment plans through their new hires? (Trade Secrets)
+•	What allows us to give a free copy of our software to a customer for evaluation, while still being sure they will pay us for the software when they go into production? (Licenses)
+
+
+1.
+NARRATOR: Now that we've covered the different types of IP projection, let’s go back to Blake and Jenna, and Blake’s plan for delivering the software to the customer.
+JENNA: Really? This is going to be weird.
+NARRATOR: Just go with it.
+-- WAVY-SCREEN EFFECT --
+JENNA: Whoa!
+
+2. 
+BLAKE: It took a big push, but my team has finally got the new version of the product ready.
+JENNA: Just in time! The customer wants to review it on Monday.
+BLAKE: Monday? No problem – I’ll email it across to them now.
+JENNA: Wait – you’re just going to give it to them? The company’s invested a lot of R&D into this new product. It contains a lot of new Intellectual Property, and you’re just going to hand it over to them like that?
+BLAKE: No problem – we’ve already got an NDA in place, so we’re covered.
+
+3.
+NARRATOR: Is Blake right? Does the NDA protect the IP in the new product? What protections does the NDA give?
+
+4.
+1.	It stops the customer creating any patents that involve the company's design.
+2.	It stops the customer passing any software onwards.
+3.	It stops the customer using any software in their own designs.
+4.	It stops the customer launching their own product with the same name as the company's product.
+5.	It stops the customer going into production and selling their products based on the company's design.
+6.	It stops the customer passing on information about Our company’s future roadmap plans. 
+
+5.
+NARRATOR: The correct answer is (6).
+NARRATOR: A Non-Disclosure Agreement stops the customer from passing on confidential information, but it doesn’t prevent them from making use of the company’s product.
+
+6.
+Jenna: An NDA isn’t sufficient. Have you got a license for the software in the product, to make sure the company is protected?
+Blake: Not yet. But we’ve got an NDA.
+Jenna: What if there’s a bug in the software, and the customer’s eval product injures someone? We could be liable. An NDA will stop them passing on confidential information, but you need a software license to limit our liability and protect us from lawsuits.
+Blake: I hadn’t thought of that.
+
+7.
+Jenna: And weren’t you going to file some patents on the new IP?
+Blake: That’s the plan, yes.
+Jenna: If you give the product to the customer now, what’s to stop the customer filing those patents first, ahead of you?
+Blake: …..maybe I better hold off on the release for now.
+Jenna: Maybe you should.
+
+NARRATOR: Jenna is right to be concerned. It looks like Blake needs a better understanding of the IP protection methods.
+NARRATOR: Throughout this month, we’ll be looking at two of them in more detail: copyrights and software licenses.
