@@ -78,7 +78,7 @@ BLAKE: Oh god. This is going to involve PowerPoint slides, isn't it?
 
 # Thu 03 Oct 2024 - The "IP Train line"
 
-NARRATOR: We create value by creating innovative or enabling concepts. In turn, these innovations enable our customers to add additional value to their own products. Intellectual Property Protection protects our R&D investment, and our business, by allocating ownership to our creations, and by recognizing others’ creations. This identifies what is “ours”, and what is “theirs”, and allows us to safely share our innovations with our customers – for a price!
+NARRATOR: We create value by creating innovative or enabling concepts. In turn, these innovations enable our customers to add additional value to their own products. Intellectual Property Protection protects our R&D investment, and our business, by allocating ownership to our creations, and by recognizing others’ creations. This identifies what is “ours”, and what is “theirs”, and allows us to safely share our innovations with our customers – for a price (or for other value, but maybe we're getting ahead of ourselves here)!
 NARRATOR: Think of this like a train that goes from one end of the line to the other and back again. We put our IP on the train at our end of the line. It goes to our customer, who puts their IP on it too, and onwards to the end of the line, adding more IP at each stage until it gets to the end user at the other end of the line. The end user puts their payment on the train and sends it back. Each stage in the supply chain takes their payment and sends the remainder back, until the train gets back to us, with our payment for our IP on it.
 
 NARRATOR: If our company does not properly protect its IP, we may find that we are sharing our innovations too freely, allowing others to profit from our investments without compensating us in return. Effectively, we would be funding R&D so that they can make money instead of us.
@@ -93,16 +93,16 @@ JENNA: Be nice.
 # Fri 04 Oct 2024 - Methods of Protecting IP.
 
 JENNA: Let's start with patents.
-JENNA: Patents protect inventions. They only apply to physical embodiments of those inventions, however. You cannot patent “a method for tying bowties”, but you can patent a machine that implements that method for tying bowties. Patents encourage innovation by granting the inventor exclusive rights to manufacture the invention.
+JENNA: Patents protect inventions. They generally apply to physical embodiments of those inventions (or at least, inventions that have some impact on the real world). Some types of invention can't be patented, and to complicate things further, the rules about what is patentable and what isn't vary from country to country. The invention also has to be new. You cannot patent “a method for tying bowties” because people have been tying bowtie knots for centuries, but you can patent a machine that implements a new method for tying bowties. Patents encourage innovation by granting the inventor exclusive rights to manufacture the invention. To get a patent, you have to apply for registration at the patent office.
 BLAKE: It's a silly idea, anyway - you can buy bow ties that just clip on. No tying necessary. Keep up, people!
 
-JENNA: Copyright protects a particular creative expression. For example, you cannot copyright a story, but you can copyright the particular combination and sequence of words that tell that story. Copyright is used to protect media such as books, movies, photographs, music and other artforms. Copyright is also used to protect software, as software is a particular sequence of instructions to implement an abstract concept. It is the particular sequence of instructions that is protected.
+JENNA: Copyright protects a particular creative expression. For example, you cannot copyright a story, but you can copyright the particular combination and sequence of words that tell that story. Copyright is used to protect media such as books, movies, photographs, music and other artforms. Copyright is also used to protect software, as software is regarded by copyright as similar to written works. Software is written as text, in a programming language, and consists of a particular sequence of instructions, written in that language, to implement an abstract concept. It is the way that the particular sequence of instructions is expressed in writing that is protected.
 
-JENNA: Copyright literally means that the creator has the right to create copies. Others do not have that right, unless the owner of the copyright grants them that right.
-JENNA: We'll come back to this when we talk about licenses.
+JENNA: Copyright literally means that the creator has the right to create copies. Others do not have that right, unless the owner of the copyright grants them that right (or some form of legal exception applies). 
+JENNA: We'll come back to this when we talk about licences. Also bear in mind that copyright happens automatically, so it's a lot easier to obtain copyright than it is a patent. 
 NARRATOR: Foreshadowing! Nice!
 JENNA: Hush.
-NARRATOR: What? I'm a narrative device - of course I like it when other literary devices are used.
+NARRATOR: What? I'm a narrative device - of course I like it when other literary devices are used. And while I'm at it, it's worth pointing out that although Jenna is clearly a highly accomplished and competent individual, she's also fictional, and as such is incapable of holding any form of legal qualification. You should therefore not treat anything she says as legal advice. 
 
 JENNA: Trademarks are used to identify and distinguish a single source or origin of goods and services in a particular marketplace. Trademarks represent the goodwill that trademark owners have established by marketing their products and services through names, brands, symbols, slogans, colors, and even sounds. 
 JENNA:
@@ -113,7 +113,7 @@ JENNA: This IS for YOUR benefit.
 BLAKE: Okay. I'm listening now. Where were we?
 JENNA: WE were about to start talking about NDAs.
 
-JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
+JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. They also agree not to use the information for any purpose unless it's set out in the NDA. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
 
 JENNA: A trade secret is 1) information that is not generally known outside an organization’s control, 2) the organization derives economic value or business advantage from that information not being generally known, and 3) the organization makes reasonable efforts to maintain the secrecy of that information.  This type of information may include client lists, marketing plans, production processes, chemical formulas, and proprietary source code.
 BLAKE: "Chemical formulas"? We're a software company.
@@ -121,7 +121,7 @@ JENNA: It's just an example, Blake.
 
 JENNA: Finally--
 BLAKE: Oh thank god!
-JENNA: FINALLY, a license is a legal agreement whereby the owner of the IP grants another party some rights to that IP, providing they agree to adhere to certain conditions – such as paying for the privilege. In particular, software is typically licensed, not sold. As the author of our software, our company owns the copyright to that software, and so owns all the rights to that IP, but we can also grant specific rights to the software to our customers, through a license that the customer accepts.
+JENNA: FINALLY, a license is a legal permission whereby the owner of the IP grants another party some rights to that IP, and usually that permission is subject to certain conditions – such as paying for the privilege. In particular, software is typically licensed, not sold. As the author of our software, our company owns the copyright to that software, and so owns all the rights to that IP, but we can also grant specific rights to the software to our customers, through a licence to the customer.
 
 # Friday 04 Oct 2024 - Knowledge Check
 
@@ -136,12 +136,12 @@ Examples, presented in a random order and requiring some checkbox/selection:
 # Friday 04 Oct 2024 - Knowledge Check - Answers
 
 Examples, presented in a random order and requiring some checkbox/selection:
-•	Our company sells a sensor that implements a new type of non-invasive blood test. What stops our competitors manufacturing copies of this new test? (Patents)
+•	Our company sells a sensor that implements a new type of non-invasive blood test. What stops our competitors manufacturing copies of this new test? (Patents - assuming we have been granted a patent)
 •	Our company has a computer program for modelling energy efficiency in wind turbines. What stops our competitors from copying this program and using it in their products? (Copyright)
-•	A competitor makes their own product which is similar to one of our products. What stops them selling it under the same name, and taking our market? (Trademarks)
+•	A competitor makes their own product which is similar to one of our products. What stops them selling it under the same name, and taking our market? (Trademarks, especially if we have applied for one)
 •	Our company has shared our roadmap plans with some of our lead customers. What stops the customers sharing our plans with our competitors? (Non-Disclosure Agreements)
 •	What stops our competitors from hiring our staff away from us, and learning of our marketing and investment plans through their new hires? (Trade Secrets)
-•	What allows us to give a free copy of our software to a customer for evaluation, while still being sure they will pay us for the software when they go into production? (Licenses)
+•	What allows us to give a free copy of our software to a customer for evaluation, while still being sure they will pay us for the software when they go into production? (Licences)
 
 
 
@@ -161,24 +161,24 @@ BLAKE: No problem – we’ve already got an NDA in place, so we’re covered.
 
 NARRATOR: Is Blake right? Does the NDA protect the IP in the new product? What protections does the NDA give? Here are some choices:
 
-1.	It stops the customer creating any patents that involve the company's design.
+1.	It stops the customer applying for any patents that involve the company's design.
 2.	It stops the customer passing any software onwards.
 3.	It stops the customer using any software in their own designs.
 4.	It stops the customer launching their own product with the same name as the company's product.
 5.	It stops the customer going into production and selling their products based on the company's design.
 6.	It stops the customer passing on information about Our company’s future roadmap plans. 
 
-NARRATOR: The correct answer is (6).
-NARRATOR: A Non-Disclosure Agreement stops the customer from passing on confidential information, but it doesn’t prevent them from making use of the company’s product.
+NARRATOR: The correct answer is (6). [A GOOD NDA SHOULD COVER ALL OF THIS]
+NARRATOR: A Non-Disclosure Agreement stops the customer from passing on confidential information, but it doesn’t prevent them from making use of the company’s product. [AK NOTE: AN NDA WILL USUALLY PREVENT THE MISUSE OF CONFIDENTIAL INFORMATION, INCLUDING 1-5 ABOVE]
 
 JENNA: An NDA isn’t sufficient. Have you got a license for the software in the product, to make sure the company is protected?
 BLAKE: Not yet. But we’ve got an NDA.
-JENNA: What if there’s a bug in the software, and the customer’s eval product injures someone? We could be liable. An NDA will stop them passing on confidential information, but you need a software license to limit our liability and protect us from lawsuits.
-BLAKE: I hadn’t thought of that.
+JENNA: What if there’s a bug in the software, and the customer’s eval product injures someone? We could be liable. An NDA will stop them passing on confidential information, but you need a software licence to limit our liability and protect us from lawsuits.
+BLAKE: I hadn’t thought of that. [AK NOTE - NDA WILL NORMALLY INCLUDE EXCLUSION OF LIABILITY AND ALSO FREQUENTLY AN INDEMITY PROTECTING HE DISCLOSING PARTY FROM ANY LOSSES ARISING FROM THE MISUSE OF THE IP BY THE RECIPIENT]
 
 JENNA: And weren’t you going to file some patents on the new IP?
 BLAKE: That’s the plan, yes.
-JENNA: If you give the product to the customer now, what’s to stop the customer filing those patents first, ahead of you?
+JENNA: If you give the product to the customer now, what’s to stop the customer filing those patents first, ahead of you? [THE NDA]
 BLAKE: …..maybe I better hold off on the release for now.
 JENNA: Maybe you should.
 
