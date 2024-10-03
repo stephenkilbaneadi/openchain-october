@@ -81,6 +81,12 @@ BLAKE: Oh god. This is going to involve PowerPoint slides, isn't it?
 NARRATOR: We create value by creating innovative or enabling concepts. In turn, these innovations enable our customers to add additional value to their own products. Intellectual Property Protection protects our R&D investment, and our business, by allocating ownership to our creations, and by recognizing others’ creations. This identifies what is “ours”, and what is “theirs”, and allows us to safely share our innovations with our customers – for a price (or for other value, but maybe we're getting ahead of ourselves here)!
 NARRATOR: Think of this like a train that goes from one end of the line to the other and back again. We put our IP on the train at our end of the line. It goes to our customer, who puts their IP on it too, and onwards to the end of the line, adding more IP at each stage until it gets to the end user at the other end of the line. The end user puts their payment on the train and sends it back. Each stage in the supply chain takes their payment and sends the remainder back, until the train gets back to us, with our payment for our IP on it.
 
+BLAKE: ZZzzzzzz OW! What was that for?
+JENNA: Pay attention!
+BLAKE: But I know this bit! We make the product. We sell the product. The customer gives us money. I told YOU that!
+JENNA: But what if they didn't?
+BLAKE: ...What?
+
 NARRATOR: If our company does not properly protect its IP, we may find that we are sharing our innovations too freely, allowing others to profit from our investments without compensating us in return. Effectively, we would be funding R&D so that they can make money instead of us.
 NARRATOR: In the example of our train, it would be like our immediate customer taking all the money off the train, so there's nothing left for us. 
 
@@ -88,7 +94,6 @@ NARRATOR: Our company expects others to respect our IP, and to compensate us acc
 NARRATOR: The train doesn't start with us. We're not really at one end of the line. We're a stop on the way, adding our IP to that of others, and making sure that we sent our payment back as required.
 BLAKE: See? I said there'd be slides.
 JENNA: Be nice.
-
 
 # Fri 04 Oct 2024 - Methods of Protecting IP.
 
