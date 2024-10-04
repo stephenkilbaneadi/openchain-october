@@ -119,6 +119,10 @@ BLAKE: Okay. I'm listening now. Where were we?
 JENNA: WE were about to start talking about NDAs.
 
 JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. They also agree not to use the information for any purpose unless it's set out in the NDA. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
+BLAKE: Wow. Your PARTIES sound really boring.
+JENNA:
+BLAKE:
+BLAKE: I'm sorry. Please continue.
 
 JENNA: A trade secret is 1) information that is not generally known outside an organization’s control, 2) the organization derives economic value or business advantage from that information not being generally known, and 3) the organization makes reasonable efforts to maintain the secrecy of that information.  This type of information may include client lists, marketing plans, production processes, chemical formulas, and proprietary source code.
 BLAKE: "Chemical formulas"? We're a software company.
@@ -130,7 +134,7 @@ JENNA: FINALLY, a license is a legal permission whereby the owner of the IP gran
 
 # Friday 04 Oct 2024 - Knowledge Check
 
-Examples, presented in a random order and requiring some checkbox/selection:
+NARRATOR: Let's pause here to see how you're getting on. Here are several questions about IP protection - can you answer them?
 •	Our company sells a sensor that implements a new type of non-invasive blood test. What stops our competitors manufacturing copies of this new test?
 •	Our company has a computer program for modelling energy efficiency in wind turbines. What stops our competitors from copying this program and using it in their products?
 •	A competitor makes their own product which is similar to one of our products. What stops them selling it under the same name, and taking our market?
@@ -140,7 +144,10 @@ Examples, presented in a random order and requiring some checkbox/selection:
 
 # Friday 04 Oct 2024 - Knowledge Check - Answers
 
-Examples, presented in a random order and requiring some checkbox/selection:
+NARRATOR: How did you get on? Here are the same questions again, but this time with the answers.
+NARRATOR: No peeking, if you haven't already read the post with just the questions in them.
+JENNA: That means you too, Blake.
+BLAKE: I wasn't gonna, honest!
 •	Our company sells a sensor that implements a new type of non-invasive blood test. What stops our competitors manufacturing copies of this new test? (Patents - assuming we have been granted a patent)
 •	Our company has a computer program for modelling energy efficiency in wind turbines. What stops our competitors from copying this program and using it in their products? (Copyright)
 •	A competitor makes their own product which is similar to one of our products. What stops them selling it under the same name, and taking our market? (Trademarks, especially if we have applied for one)
@@ -164,28 +171,20 @@ BLAKE: Monday? No problem – I’ll email it across to them now.
 JENNA: Wait – you’re just going to give it to them? The company’s invested a lot of R&D into this new product. It contains a lot of new Intellectual Property, and you’re just going to hand it over to them like that?
 BLAKE: No problem – we’ve already got an NDA in place, so we’re covered.
 
-NARRATOR: Is Blake right? Does the NDA protect the IP in the new product? What protections does the NDA give? Here are some choices:
+NARRATOR: Is Blake right? Does the NDA protect the IP in the new product? 
 
-1.	It stops the customer applying for any patents that involve the company's design.
-2.	It stops the customer passing any software onwards.
-3.	It stops the customer using any software in their own designs.
-4.	It stops the customer launching their own product with the same name as the company's product.
-5.	It stops the customer going into production and selling their products based on the company's design.
-6.	It stops the customer passing on information about Our company’s future roadmap plans. 
-
-NARRATOR: The correct answer is (6). [A GOOD NDA SHOULD COVER ALL OF THIS]
-NARRATOR: A Non-Disclosure Agreement stops the customer from passing on confidential information, but it doesn’t prevent them from making use of the company’s product. [AK NOTE: AN NDA WILL USUALLY PREVENT THE MISUSE OF CONFIDENTIAL INFORMATION, INCLUDING 1-5 ABOVE]
+NARRATOR: A Non-Disclosure Agreement stops the customer from passing on confidential information, but doesn't give all the protections the company needs, when shipping software products.
 
 JENNA: An NDA isn’t sufficient. Have you got a license for the software in the product, to make sure the company is protected?
-BLAKE: Not yet. But we’ve got an NDA.
-JENNA: What if there’s a bug in the software, and the customer’s eval product injures someone? We could be liable. An NDA will stop them passing on confidential information, but you need a software licence to limit our liability and protect us from lawsuits.
-BLAKE: I hadn’t thought of that. [AK NOTE - NDA WILL NORMALLY INCLUDE EXCLUSION OF LIABILITY AND ALSO FREQUENTLY AN INDEMITY PROTECTING HE DISCLOSING PARTY FROM ANY LOSSES ARISING FROM THE MISUSE OF THE IP BY THE RECIPIENT]
+BLAKE: Not yet. But -- once again -- we’ve got an NDA.
+JENNA: What if there’s a bug in the software, and the customer’s eval product injures someone? We could be liable. We need a software licence to limit our liability and protect us from lawsuits.
+BLAKE: I hadn’t thought of that.
 
 JENNA: And weren’t you going to file some patents on the new IP?
 BLAKE: That’s the plan, yes.
-JENNA: If you give the product to the customer now, what’s to stop the customer filing those patents first, ahead of you? [THE NDA]
+JENNA: It's always safer to file your patents BEFORE you share the IP with an outside party.
 BLAKE: …..maybe I better hold off on the release for now.
 JENNA: Maybe you should.
 
 NARRATOR: Jenna is right to be concerned. It looks like Blake needs a better understanding of the IP protection methods.
-NARRATOR: Throughout this month, we’ll be looking at two of them in more detail: copyrights and software licenses.
+NARRATOR: Throughout this OpenChain October, we’ll be looking at one of them in more detail: software licenses.
