@@ -95,7 +95,7 @@ NARRATOR: The train doesn't start with us. We're not really at one end of the li
 BLAKE: See? I said there'd be slides.
 JENNA: Be nice.
 
-# Fri 04 Oct 2024 - Methods of Protecting IP.
+# Fri 04 Oct 2024 - Methods of Protecting IP: Patents, Copyright, and Trademarks.
 
 JENNA: Let's start with patents.
 JENNA: Patents protect inventions. They generally apply to physical embodiments of those inventions (or at least, inventions that have some impact on the real world). Some types of invention can't be patented, and to complicate things further, the rules about what is patentable and what isn't vary from country to country. The invention also has to be new. You cannot patent “a method for tying bowties” because people have been tying bowtie knots for centuries, but you can patent a machine that implements a new method for tying bowties. Patents encourage innovation by granting the inventor exclusive rights to manufacture the invention. To get a patent, you have to apply for registration at the patent office.
@@ -117,6 +117,8 @@ BLAKE: I was just getting some more coffee. You sounded like you were going to b
 JENNA: This IS for YOUR benefit.
 BLAKE: Okay. I'm listening now. Where were we?
 JENNA: WE were about to start talking about NDAs.
+
+# Fri 04 Oct 2024 - Methods of Protecting IP: NDAs, Trade Secrets and Licenses
 
 JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. They also agree not to use the information for any purpose unless it's set out in the NDA. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
 BLAKE: Wow. Your PARTIES sound really boring.
