@@ -95,11 +95,13 @@ NARRATOR: The train doesn't start with us. We're not really at one end of the li
 BLAKE: See? I said there'd be slides.
 JENNA: Be nice.
 
-# Fri 04 Oct 2024 - Methods of Protecting IP: Patents, Copyright, and Trademarks.
+# Fri 04 Oct 2024 - Methods of Protecting IP: Patents
 
 JENNA: Let's start with patents.
 JENNA: Patents protect inventions. They generally apply to physical embodiments of those inventions (or at least, inventions that have some impact on the real world). Some types of invention can't be patented, and to complicate things further, the rules about what is patentable and what isn't vary from country to country. The invention also has to be new. You cannot patent “a method for tying bowties” because people have been tying bowtie knots for centuries, but you can patent a machine that implements a new method for tying bowties. Patents encourage innovation by granting the inventor exclusive rights to manufacture the invention. To get a patent, you have to apply for registration at the patent office.
 BLAKE: It's a silly idea, anyway - you can buy bow ties that just clip on. No tying necessary. Keep up, people!
+
+# Fri 04 Oct 2024 - Methods of Protecting IP: Copyright
 
 JENNA: Copyright protects a particular creative expression. For example, you cannot copyright a story, but you can copyright the particular combination and sequence of words that tell that story. Copyright is used to protect media such as books, movies, photographs, music and other artforms. Copyright is also used to protect software, as software is regarded by copyright as similar to written works. Software is written as text, in a programming language, and consists of a particular sequence of instructions, written in that language, to implement an abstract concept. It is the way that the particular sequence of instructions is expressed in writing that is protected.
 
@@ -108,6 +110,8 @@ JENNA: We'll come back to this when we talk about licences. Also bear in mind th
 NARRATOR: Foreshadowing! Nice!
 JENNA: Hush.
 NARRATOR: What? I'm a narrative device - of course I like it when other literary devices are used. And while I'm at it, it's worth pointing out that although Jenna is clearly a highly accomplished and competent individual, she's also fictional, and as such is incapable of holding any form of legal qualification. You should therefore not treat anything she says as legal advice. 
+
+# Fri 04 Oct 2024 - Methods of Protecting IP: Trademarks
 
 JENNA: Trademarks are used to identify and distinguish a single source or origin of goods and services in a particular marketplace. Trademarks represent the goodwill that trademark owners have established by marketing their products and services through names, brands, symbols, slogans, colors, and even sounds. 
 JENNA:
@@ -118,7 +122,7 @@ JENNA: This IS for YOUR benefit.
 BLAKE: Okay. I'm listening now. Where were we?
 JENNA: WE were about to start talking about NDAs.
 
-# Fri 04 Oct 2024 - Methods of Protecting IP: NDAs, Trade Secrets and Licenses
+# Fri 04 Oct 2024 - Methods of Protecting IP: NDAs
 
 JENNA: A Non-Disclosure Agreement, also known as an NDA, outlines the confidential information that parties wish to share to conduct business, but at the same time will limit what each party can do with such information. Each party, by signing the NDA, understands and assures the importance of keeping the shared information confidential. They also agree not to use the information for any purpose unless it's set out in the NDA. Always make sure that an NDA is read and signed by both parties before sharing any confidential information. 
 BLAKE: Wow. Your PARTIES sound really boring.
@@ -126,9 +130,14 @@ JENNA:
 BLAKE:
 BLAKE: I'm sorry. Please continue.
 
+# Fri 04 Oct 2024 - Methods of Protecting IP: Trade Secrets
+
+
 JENNA: A trade secret is 1) information that is not generally known outside an organization’s control, 2) the organization derives economic value or business advantage from that information not being generally known, and 3) the organization makes reasonable efforts to maintain the secrecy of that information.  This type of information may include client lists, marketing plans, production processes, chemical formulas, and proprietary source code.
 BLAKE: "Chemical formulas"? We're a software company.
 JENNA: It's just an example, Blake.
+
+# Fri 04 Oct 2024 - Methods of Protecting IP: Licenses
 
 JENNA: Finally--
 BLAKE: Oh thank god!
