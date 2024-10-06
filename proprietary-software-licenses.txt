@@ -1,0 +1,65 @@
+Monday 14th October
+
+JENNA: Someone looks happy.
+BLAKE:  Who has two thumbs and a killer product? This guy. This new software release is gonna make a packet.
+JENNA: Really? That’s great. Mind if I ask a silly question?
+BLAKE: Sure!
+JENNA: How?
+BLAKE: Sorry? How what?
+JENNA: How is it going to make a packet?
+BLAKE: See, Travis came up with this great new algorithm. It’s 30% faster, it’s smaller and – 
+JENNA: I don’t mean that. I’m sure the software’s great. I mean, how is it going to make money?
+BLAKE:  We have a great product, but we don’t give it to customers unless they give us this great thing called “money”. Oodles of it. “Oodles” is a specific business term. It means “a truck load”.
+JENNA: Ah. Right. Silly me. Sounds very detailed and technical.
+BLAKE: Well, you know me.
+JENNA: Uh-huh. And Legal’s signed off on all those technical details in your SLA.
+BLAKE: What do Legal have to do with it?
+
+Monday 14th October
+
+
+JENNA: Okay, you have a great software product you plan to ship so that we can make "oodles" of money. I have two questions. One: What do the customer get for their money?
+BLAKE: They get our product?
+JENNA: No, I mean, what can they do with it? Can they give it away? Can they sell it? Can they publish the source code?
+BLAKE: Wait, what?
+JENNA: Two: What happens if there’s a bug in your product, and the whole of Manhatten is flattened by an asteroid and it’s your fault?
+BLAKE: …bit of a long shot for a bug in an audio algorithm…
+
+Monday 14th October
+
+JENNA: Yes, it's unlikely that your new audio algorithm is going to cause Manhattan to get landscaped by an asteroid, but humour me: what if it happens and it’s your fault? What protects the company?
+BLAKE: Well, that’s what Legal are for, right?
+JENNA: It is. And parachutes are for stopping you going splat when you fall out of a plane, but the time to talk to the parachute salesman is before you take off, not when you’re on the way back down by the shortest route.
+BLAKE: You’re saying I should talk to Legal first? About a… a…
+JENNA: Software License Agreement.
+BLAKE: That’s the one.
+JENNA: Yes. Because every piece of software that leaves the company needs to be covered by a Software License Agreement, so that the company is protected if something goes wrong.
+BLAKE:
+JENNA:
+BLAKE: I’ll give them a call.
+
+Monday 14th October
+
+NARRATOR: A Software License Agreement – or “SLA” – is a legal document that accompanies a software release.
+NARRATOR:  It has two main functions:
+1.	It describes the conditions under which someone is allowed to use the software. This allows the organisation that owns the software to protect its IP and – if it chooses – to profit from it.
+2.	It limits the software owner’s liability, which protects the owner.
+
+Monday 14th October
+
+JENNA: Software licenses might look complicated--
+BLAKE: Unreadable, you mean!
+JENNA: But at heart, there's not a lot to them, despite the convoluted language they're written in.
+BLAKE: Could have fooled me!
+JENNA: Look, basically, a software license agreement will state what the "licensee" is allowed to do with the software, and will state any conditions required - such as paying for the software in the first place, if it is not free.
+JENNA: A software license agreement will typically also place restrictions on the "licensee", stating things that the "licensee" is not allowed to do.
+JENNA: Basically a software license agreement typically covers three areas: what you CAN do with the software, what you CANNOT do with the software, and what you MUST do, if you use the software. The details vary considerably from product to product, but that's the core of it.
+
+
+Monday 14th October
+
+JENNA: To put that another way, a software license says what you can do by "granting you the right" to do something. This is based on copyrights: if you own the IP, you have the copyright - you have the RIGHT to COPY it - and you can also grant that right to someone else, if you choose.
+BLAKE: Oh, so THAT'S why you were going on about copyright all last week.
+JENNA: To some degree. But mainly because they're important for open source.
+NARRATOR: Ooh, more foreshadowing!
+
