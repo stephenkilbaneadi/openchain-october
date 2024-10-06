@@ -1,0 +1,244 @@
+Monday 7th October - Copywhat?
+
+Jenna: Hey Blake.
+Blake: Hi, how’s it going, Jenna?
+Jenna: Oh, okay. But that reminds me, there was something I was going to ask you.
+Blake: Oh?
+Jenna: Yeah. I’ve been looking at the driver code for the new eval board.
+Blake: Oh, it’s great, isn’t it? Travis put it together so quickly. I was really impressed.
+Jenna: Uh huh. I was wondering, though – where did all that code come from?
+Blake: (surprised) From Travis. I just said that.
+Jenna: Sure. But I mean, did Travis write it, or did he get it from somewhere else? There are no copyright statements in it, that I can find.
+Blake: Any copywhat?
+Jenna: Copyright statements. Assertions that this is our code, and that we own it.
+Blake: …. We don’t need anything like that. Do we?
+
+
+
+
+Monday 7th October - Copyright Recap
+
+NARRATOR: As we discussed in the previous module, copyright is one means of protecting Intellectual Property.
+NARRATOR: Copyright protects a particular creative expression. For example, you cannot copyright a story, but you can copyright the particular combination and sequence of words that tell that story. Copyright is used to protect media such as books, movies, photographs, music and other artforms.
+
+NARRATOR:  Copyright is also used to protect software, as software is regarded by copyright as similar to written works. Software is written as text, in a programming language, and consists of a particular sequence of instructions, written in that language, to implement an abstract concept. It is the way that the particular sequence of instructions is expressed in writing that is protected.
+
+NARRATOR: If you look in the front of a book, you will see a statement from the author asserting that they own the copyright on the material in the book. When you write software, it is good practice to include a copyright statement in each source file, asserting ownership of the code. If you write software on behalf of an organisation, you would typically be asserting the organisation's ownership of the code.
+
+
+
+
+Tuesday 8th  October - Copyright Assertions
+
+Jenna: Whenever we write some code for the company, we should be putting copyright statements into the code, so that it’s clear that the code belongs to the company.
+Blake: I can’t say that I’ve really noticed.
+Jenna: This is my surprised face.
+Blake: (not really paying attention) …what?
+Jenna: Nothing. Look, for software that the company owns, our company requires that each source file should have a copyright statement, up at the top, in the comments, stating that the file is company’s copyright.
+
+Blake: Sounds like more busywork to me. Just another thing that the lawyers have come up with.
+Jenna: It’s no more work than including a suitable comment at the top of the file saying what the source file is for, or including proper documentations for your functions, and you do that, don’t you?
+Blake: (evidently not) Er, sure!
+Jenna: It’s not hard. Look, I’ll show you.
+
+
+
+
+Wednesday 9th  October - Copyright Assertion Format Overview
+
+NARRATOR: A copyright assertion typically appears at or near the start of a file. Where the file is source code, the copyright assertion is expressed as a comment.
+
+/* Copyright © 2023 Example Corp. */
+
+NARRATOR: In this case, the copyright assertion is part of a comment in C code.
+NARRATOR: The copyright assertion has several parts to it.
+
+
+
+
+Wednesday 9th  October - "Copyright"
+
+NARRATOR: First, there is the indication that this is copyright.
+NARRATOR: This is indicated by the word “Copyright” or the copyright symbol and frequently both.
+
+NARRATOR: Modern software systems typically handle Unicode and international character sets well, so cope with the copyright symbol, but it is common and acceptable practice for a “c” character to be used in parentheses instead of the copyright symbol
+NARRATOR: which also makes it easier for tooling which does not deal with Unicode characters.
+
+
+
+
+Wednesday 9th  October - Copyright Year
+
+NARRATOR: The next part of the copyright assertion is the year.
+NARRATOR: This is the year that the software was written. 
+NARRATOR: If several years apply, because the software was updated some time after being written, each year can be expressed.
+
+/* Copyright (C) 2005, 2014, 2023 Example Corp. */
+
+NARRATOR: If the code is updated in several consecutive years, the years can be given as a range.
+
+/* Copyright (C) 2020-2023 Example Corp. */
+
+
+
+
+Wednesday 9th  October - Copyright Owner Name
+
+NARRATOR: The final part of the copyright assertion is the name.
+NARRATOR: This is the name of the entity that owns the copyright to the source code.
+
+NARRATOR: If you are writing code on behalf of an organisation, you should check to see whether that organisation has specific rules on how it requires copyright assertions to be written.
+
+
+
+
+Thursday 10th October - Copyright Wrap-up
+
+Jenna: So that’s the basics: Whenever you’re creating software for the company, that’s the copyright statement you should be adding to the source file.
+Blake: (reading) “Copyright, then the copyright symbol, then the year, then our company name. Mmmm, catchy!
+Jenna: It’s not supposed to be catchy. It’s supposed to make sure that any time we send out our software, it already has a copyright statement on it to show it’s our property, and that it’s protected.
+
+Blake: So this is another of those checklist items for my software releases, right?
+Jenna: Yes. But you should be putting copyright statements into company code from the start – even on first commit, your software should already have a copyright statement in it. You never know when someone’s going to get an urgent call from a customer…
+Blake: Huh. Easier than I thought it would be.
+Jenna: Hold your horses. I said that was the basics.
+Blake: ….I’m gonna need more coffee, aren’t I?
+
+
+
+
+Thursday 10th October - KNOWLEDGE CHECK
+
+Question 1:
+
+Put these parts of a copyright assertion into the correct order.
+•	“©” or “(c)” 
+•	Name of IP holder.
+•	The word “Copyright”.
+•	The year of authorship.
+
+Question 2:
+
+What year should be included in a copyright assertion? Check all that apply.
+•	The year it was first created.
+•	The year it was most recently updated.
+•	Other years when it was updated.
+•	The year it is distributed to the customer.
+•	The year the software is publicly announced.
+
+
+
+
+Thursday 10th October - KNOWLEDGE CHECK - ANSWERS
+
+Question 1:
+
+Put these parts of a copyright assertion into the correct order.
+•	“©” or “(c)” (2nd)
+•	Name of IP holder. (4th)
+•	The word “Copyright”. (1st)
+•	The year of authorship. (3rd)
+
+Question 2:
+
+What year should be included in a copyright assertion? Check all that apply.
+•	The year it was first created. (yes)
+•	The year it was most recently updated (yes)
+•	Other years when it was updated (yes)
+•	The year it is distributed to the customer (no)
+•	The year the software is publicly announced (no)
+
+
+Friday 11th October - Copyright Extra
+
+NARRATOR: Jenna is reviewing the software updates, when she spots something amiss.
+
+Jenna: What the…?
+
+( She picks up the phone and calls Blake)
+
+Blake: Yo! Your main man Blake here!
+
+Jenna: How old are you? No, never mind, I don’t have time. We have a problem with the copyright assertions in the new delivery.
+
+Blake: No, really? What’s the problem?
+
+Jenna: Well, where are they? Where have they gone?
+
+Blake: What? Hang on…. I’ve got the code right in front of me…. (reads) “Copyright © 2024" and the name of our company.
+
+Jenna: Not our copyrights. The vendor’s.
+
+Blake: What?
+
+
+
+
+Friday 11th October - Copyright Extra
+
+Jenna: Half this product is based on source code that came from a vendor. Which is all their copyright. What happened to all their copyright assertions?
+
+Blake: You’ve lost me. I got Travis to put our copyright on all the files, just like you told me.
+
+(Jenna is still on the phone, forehead on her desk.)
+
+Jenna: I said add our copyrights where we’re making changes. I didn’t said change or remove someone else’s copyright. That’s really bad.
+
+Blake: It is?
+
+Jenna: YES! It’s like reprinting The Shawshank Redemption, but sticking your own name on the cover instead of Stephen King.
+
+Blake: Oh. When you put it like that…. Maybe I should get Travis to put them back.
+
+Jenna: Maybe you should.
+
+
+
+
+Friday 11th October - Copyright Extra
+
+Jenna is reviewing the latest version of the releases.
+
+Jenna: Okay, Travis, let’s see what you’ve done this time…. Uh-huh… Uh-huh… Yep… Good… okay.
+
+(She calls Blake)
+
+Blake: It wasn’t my fault!
+
+Jenna: Relax. I just wanted to let you know that the copyrights all look good now. 
+
+Blake: Great! I’ll let Travis know we’re all set for our release.
+
+Jenna: Sure – once you have your software license agreement in place.
+
+Blake: ….
+
+Jenna: ….
+
+Blake: Oh god.
+
+NARRATOR: We’ll look at Software License Agreements in our next training module.
+
+Friday 11th October
+
+KNOWLEDGE CHECK
+
+When is it appropriate to change or remove copyright statements from a third party? Check all that apply.
+•	When ADI developers have made changes to the code. 
+•	When ADI includes the code in an ADI product. 
+•	When the third-party code was downloaded from the Internet. 
+•	When ADI has paid for a commercial license for the code. 
+•	When ADI has acquired the third-party that created the code. 
+
+Friday 11th October
+
+KNOWLEDGE CHECK - ANSWER
+
+When is it appropriate to change or remove copyright statements from a third party? Check all that apply.
+•	When ADI developers have made changes to the code. (no)
+•	When ADI includes the code in an ADI product. (no)
+•	When the third-party code was downloaded from the Internet. (no)
+•	When ADI has paid for a commercial license for the code. (no)
+•	When ADI has acquired the third-party that created the code. (no)
+
+(none of them apply, because it shouldn’t happen.)
