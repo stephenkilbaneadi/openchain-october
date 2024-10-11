@@ -217,28 +217,4 @@ Jenna: ….
 
 Blake: Oh god.
 
-NARRATOR: We’ll look at Software License Agreements in our next training module.
-
-Friday 11th October
-
-KNOWLEDGE CHECK
-
-When is it appropriate to change or remove copyright statements from a third party? Check all that apply.
-•	When ADI developers have made changes to the code. 
-•	When ADI includes the code in an ADI product. 
-•	When the third-party code was downloaded from the Internet. 
-•	When ADI has paid for a commercial license for the code. 
-•	When ADI has acquired the third-party that created the code. 
-
-Friday 11th October
-
-KNOWLEDGE CHECK - ANSWER
-
-When is it appropriate to change or remove copyright statements from a third party? Check all that apply.
-•	When ADI developers have made changes to the code. (no)
-•	When ADI includes the code in an ADI product. (no)
-•	When the third-party code was downloaded from the Internet. (no)
-•	When ADI has paid for a commercial license for the code. (no)
-•	When ADI has acquired the third-party that created the code. (no)
-
-(none of them apply, because it shouldn’t happen.)
+NARRATOR: We’ll look at Software License Agreements next.
