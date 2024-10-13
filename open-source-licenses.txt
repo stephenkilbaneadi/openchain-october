@@ -1,0 +1,258 @@
+1.	Tues 15 Oct
+
+JENNA: Hey Blake, I just wanted to ask about the WHAT ON EARTH ARE YOU NAILING TO YOUR OFFICE WALL?
+BLAKE: Finished! Isn't it great?
+JENNA: I'm just amazed you didn't put the hammer through the wall. Wait - Is that the CEO of the company?
+BLAKE: Don't you recognize him?
+JENNA: It's a little blurry.
+BLAKE: It's a screenshot from the last town hall. What did you want?
+JENNA: Suddenly not important. Why do you have a screen cap of the CEO on your wall?
+
+2.	Tues 15 Oct
+
+JENNA: Come on, Blake - explain. Why do you have a screencap of the CEO on your wall?
+BLAKE: It's like with lawyers.
+JENNA: You've lost me.
+BLAKE: You know how they put those things on their walls? Records of their accomplishments?
+JENNA: Their professional qualifications.
+BLAKE: Exactly. It's like that.
+JENNA: Nope, still lost.
+BLAKE: This is the bit in the town hall call where he was bigging up Project Liberator.
+JENNA: I think he said Project Liberator was a "must win" project. Wait. Do you mean YOU'RE doing Project Liberator?
+
+3.	Tues 15 Oct
+
+JENNA: Seriously, Blake - YOU'RE the one leading the "must win" Project Liberator?
+BLAKE: Yep. Me and Travis. The customer needed it in six months, and the other teams said it would take five years to write all that code. We're getting it done.
+JENNA: You mean Travis.
+BLAKE: Travis is getting it done.
+JENNA: Shoot. I was going to sell some stock, but now that probably counts as insider trading.
+BLAKE: You've lost me.
+JENNA: You really think Travis can do this?
+BLAKE: Relax. We've got until the end of the quarter to deliver, and we're ahead. Code's done. Tests are passing. And before you start, I'm talking to Legal about software licenses, the OSPO are doing their scanning thing with Mother Goose---
+JENNA: That's not what it's called.
+BLAKE: --- and it's going well.  Uh, what are you looking at the ceiling for?
+JENNA: I don't see any flying pigs.
+BLAKE'S LAPTOP: *PING* "You have mail"
+JENNA: Nobody's computer really says that.
+
+
+4.	Tues 15 Oct
+
+BLAKE'S LAPTOP: Email from OSPO has just arrived. Subject: "Problems in the Liberator source code scan".
+BLAKE: What? WHAT? What?
+JENNA: Something wrong?
+BLAKE: It's the OSPO. They're saying we need to release Project Liberator in source code form. No, wait - they're saying we need to GIVE it away. That's ridiculous.
+JENNA: Let me guess. Travis met the tighter schedule by using some open source code?
+BLAKE: What? No, of course not?
+JENNA: Really?
+BLAKE: He got some free code from the Internet.
+JENNA: Ah. Right. Of course.
+
+
+5. Wed 16 Oct
+
+SECTION: Free Software isn't free.
+Section 2: Context: What is Open-Source
+
+
+
+NARRATOR: There is a lot of software that is freely available on the Internet, but you need to understand that, just because you didn't have to pay for it, that doesn't mean you can do whatever you want with it.
+NARRATOR: Free software is still generally licensed: you can use the software, but only according to the terms of the license that covers the software.
+NARRATOR: Let’s review what we covered last week.
+BLAKE: Oh man - I have to go through that AGAIN?
+JENNA: Well, maybe this time you should try paying attention.
+
+
+NARRATOR: A software license is a legal document that says what you may do with the software, what you may not do with the software, and what you must do, if you use the software.
+NARRATOR: Software licenses are typically divided into two main groups: commercial (or proprietary licenses), and open source licenses.
+NARRATOR: We looked briefly at commercial software licenses last week. They typically limit what licensees can do with the software. For example, licensees might be limited in the number of copies they can make, or how they can redistribute the code, if at all. Commercial licenses might say customers may not do licensees things, such as reverse-engineering the code. They might specify that licensees must do certain things, such as paying a fee to use the software.
+
+
+6. Thu 17 Oct
+
+NARRATOR: Open Source licenses use the same mechanisms, but to achieve different aims. Open Source licenses use copyright law not for commercial purposes, but to provide and preserve certain freedoms with respect to using the software. Open source software is generally available without requiring a fee, in source code form, and the software licenses give you the rights – the “freedoms” -- to use the software, to modify it, and to redistribute it without restriction. 
+NARRATOR: It is because you do not have to pay a fee, and because the license grants you “freedoms”, that software under this type of software license is sometimes called “free software”. But just because you do not have to pay a fee, that does not mean the software is without cost – simply that the cost is not in monetary terms.
+NARRATOR: Open source software licenses typically place obligations on you: if you use the software, there are things you must do. 
+
+
+7. Fri 18 Oct
+
+NARRATOR: The open source licenses are again divided into two main groups: permissive, and copyleft.
+NARRATOR: “Permissive” open source licenses get their name because they permit use with few obligations that are typically easy to fulfill. Usually, if you use the software in a product and redistribute that product, you have to pass on “notices and acknowledgements” to show that you’ve used the open source software. There is no difficulty in using the software in a commercially-licensed product, which is important for some organisations.
+
+8. Mon 21 Oct
+
+NARRATOR: In contrast, “copyleft” licenses place more---
+
+-- *RECORD SCRATCH* --
+
+BLAKE: Wait? Copyleft? What’s that?
+
+JENNA: Well, it’s all based on copyright law. If you own the IP, you own the rights. You can grant what rights you choose, and you can say what obligations come with those rights. Most people use copyright law to limit who has those those rights. Open source software is the opposite: it uses the same law to make sure everyone has the same rights, and to stop someone restricting those rights. It’s the opposite of usual copyright, so they called it copyleft. It’s a weak pun.
+
+BLAKE: Man, I wish I’d been at the party where they came up with that. Must have been a riot.
+
+JENNA: Be nice.
+
+NARRATOR: If I may?
+
+BLAKE: Sure, dude.
+
+JENNA: Be my guest.
+
+NARRATOR: Thank you.
+
+9.	Tues 22 Oct
+
+Section 3:  Types of Licenses
+
+NARRATOR: As I was saying, in contrast to permissive licenses, copyleft licenses place more obligations on you in exchange for the right to use the software – or, more specifically, to redistribute the software, because these added obligations tend to apply when the copyleft software is combined with other software and the resulting combination is redistributed.
+
+NARRATOR: We’ll look at some popular examples of permissive and copyleft licenses.
+
+SECTION: PERMISSIVE LICENSES
+
+SUBSECTION: THE MIT LICENSE
+
+NARRATOR: The MIT license is a very popular permissive license. It grants broad rights to use, modify and redistribute the software and also grants those rights to anyone who receives a copy of the software too and only places two obligations on you in exchange for those rights: You have to include the copyright notice in the software and you have to include the permission notice.
+
+NARRATOR: Like most open source licenses, the MIT License includes a disclaimer of warranty or liability.
+
+
+10. 	Wed 23 Oct
+
+SUBSECTION: THE BSD 3-CLAUSE LICENSE
+
+NARRATOR: The BSD licenses are another very popular family of open source licenses. There are many variants of BSD licenses. The BSD 3-Clause license is one of the most common. As with the MIT License, this license grants rights to use and redistribute the software,  but there are more obligations here.
+
+NARRATOR: The copyright line, the conditions and the disclaimer – the whole license, in other words – must be retained in source code and reproduced in documentation or related materials.
+
+NARRATOR: and there is also a restriction: you can’t use the names of the authors for endorsement or promotion.
+
+NARRATOR: Like the MIT license, there is a disclaimer of warranty and liability.
+
+NARRATOR: Neither the MIT License nor the BSD licenses contain any obligations or restrictions that prevent you from using open source software under these licenses within commercial products. Therefore, you can create products under proprietary licenses that use third-party components licensed under MIT or BSD licenses. This is why these licenses are known as “permissive”.
+
+
+11.	Thu 24 Oct
+
+SECTION: COPYLEFT LICENSES
+
+SUBSECTION: THE GPL LICENSE
+
+NARRATOR: The best-known example of a copyleft license is the GNU Public License, or “GPL” for short. The most common versions are version 2.0 and version 3.0.
+
+NARRATOR: The GPL is a much longer license text. As with the permissive licenses, the GPL license grants the rights to use, modify and redistribute the software, and like the permissive licenses, it requires you to pass on a copy of the license text. But there are several key obligations that apply when you distribute the software, by itself or combined with other software.
+
+NARRATOR: First, if you distribute the software in object-code form, you must make the source code available. Anyone who receives the software from you is entitled to receive the source code too. If you have made modifications to the software, they are entitled to receive the source code for that modified version.
+
+NARRATOR: Second, if you combine the software with other software, the resulting combination must be released under the same GPL license. If you use GPL-2.0 software in an application, the entire application must be released under the GPL-2.0 license. That means that the first obligation also applies to the whole application, and therefore you are obligated to make the source code for the entire application, licensed under GPL-2.0 as well.
+
+BLAKE: Wait? Is THAT what these OSPO guys are talking about?
+
+12. 	Fri 25 Oct
+
+
+JENNA: Yes, that’s right. Travis included some code that was licensed under the GPL, and that means the entire application has to be released under the GPL, and that means you have to make the source code for the application available under the GPL, too.
+
+BLAKE: But that’s crazy! We can’t release our source code! 
+
+JENNA: You have to, if you use that GPL open source code.
+
+BLAKE: These people are insane? How are we supposed to make money?
+
+JENNA: That's not their problem.
+
+BLAKE: What?
+
+JENNA: No-one is forcing you to use software that is licensed under the GPL. But if you do, then you have to follow the license.
+
+
+13.	Mon 28 Oct
+
+
+SUBSECTION: OTHER COPYLEFT LICENSES
+
+NARRATOR: Copyleft licenses are sometimes known by other names, such as “Reciprocal licenses” or “Sharealike licenses”.
+
+NARRATOR: Copyleft licenses are also divided into two groups: “Weak copyleft licenses” and “Strong copyleft licenses”. The difference is how far-reaching the license’s copyleft effect is. 
+
+NARRATOR: With weak copyleft licenses, the copyleft effect applies to the source file, but does not go beyond the file. This means that, when you distribute your application, you must release the source code of the copyleft file, including any modifications you make to it, under the weak copyleft license, but you don’t have to release the source code of other, proprietary code that you combine with the weak copyleft code.
+
+NARRATOR: Examples of weak copyleft licenses are: the Mozilla Public License, the Eclipse Public License, and the Lesser Gnu Public License, or LGPL. The LGPL also has some additional requirements we will cover shortly.
+
+14.	Tue 29 Oct
+
+
+NARRATOR: With strong copyleft licenses, the copyleft effect applies not only to the source file, but also anything you combine it with, such as by linking dynamically or statically. This means that, when you distribute your application, the whole application must be distributed in source form, under the strong copyleft license.
+
+NARRATOR: Examples of strong copyleft icenses are: The Gnu Public License, or GPL, the Affero Gnu Public License, or AGPL, and the Creative Commons Sharealike licenses.
+
+NARRATOR: The Stack Overflow website is a common resource for developers, but be careful: code posted on Stack Overflow is under a Sharealike license by default, which is strong copyleft, and should not be used in proprietary applications.
+
+NARRATOR: Typically, obligations in an open source license take effect whenever you distribute the code, in either source or object form, so there is usually not a problem if you are only using the code internally, but beware of the Affero Gnu Public License, or AGPL: with the AGPL, the copyleft effects also take effect for Software-as-a-Service products.
+
+
+15.	Wed 30 Oct
+
+
+SUBSECTION: THE LGPL LICENSE
+
+NARRATOR: The Lesser Gnu Public License, or LGPL, can be used with proprietary code, but there are conditions: when you distribute an application that uses LGPL code, you have to ensure that recipients are able to make their own modifications to the LGPL-licensed code, and to use that modified version in the application.
+
+
+NARRATOR: To support this, in addition to giving the recipients the source code of the LGPL-licensed software, you must ensure that the LGPL-licensed software is linked dynamically, and you must give recipients the right to reverse-engineer your application, so that they can debug any changes they make to the LGPL-licensed application.
+
+16.	Thu 31 Oct
+
+
+BLAKE: Man, that sucks! So, how do we get around it?
+
+JENNA: We don’t. 
+
+BLAKE: I dunno. Travis is pretty smart. I’m sure he could figure something out.
+
+JENNA: Nope. It’s not a matter of “figuring it out”. We protect our own IP, and we expect other people to respect our IP rights, so we also respect others’ IP rights. We don’t try to “get around” bits of licenses we don’t like. If you don’t like the obligations that come with using the software, don’t use the software. Simple.
+
+BLAKE: But we have to use it, or we’ll miss the dates for Project Liberator. We don’t have the time to write all that code from scratch!
+
+JENNA: I knew I should have sold that stock last week.
+
+BLAKE: What?
+
+JENNA: My advice is to go back and check. Sometimes, code released under a strong copyleft license is also available under a commercial license. Which may be expensive, but nowhere near as expensive as writing all the code from scratch. Or maybe you can find a different open source library that you can use instead, that has a more permissive license. 
+
+BLAKE: So we may not be completely sunk?
+
+JENNA: Maybe. Maybe not. Do some digging first.
+
+NARRATOR: Remember that, just because you don’t need to pay for code on the Internet, that does not mean it does not have a cost. Always check the license that applies to free software before you use it in a commercial product, or you may get a very expensive surprise when you try to release the product.
+
+
+
+17.	Thu 31 Oct
+
+SCENARIO: Blake and Jenna, back at the water cooler. Or coffee machine.
+
+BLAKE: Good news!  We checked that library, and it is available under a commercial license, too.
+
+JENNA: That is good news.
+
+BLAKE: A pretty hefty one, though. I had to talk pretty fast to convince my GM to add it to the budget.
+
+JENNA: You told her the time and money involved in rewriting the code, and the lost business opportunity, you mean?
+
+BLAKE: Well, yeah. But I was talking fast when I told her.
+
+JENNA: I’m glad it worked out.  But next time...?
+
+BLAKE: Yeah, yeah. Next time, we’ll check the license before we use the code in the product.
+
+JENNA: Glad to hear it.
+
+BLAKE: Really?
+
+JENNA: Now I can sell that stock.
+
+
