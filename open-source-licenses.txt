@@ -59,14 +59,14 @@ Section 2: Context: What is Open-Source
 
 NARRATOR: There is a lot of software that is freely available on the Internet, but you need to understand that, just because you didn't have to pay for it, that doesn't mean you can do whatever you want with it.
 NARRATOR: Free software is still generally licensed: you can use the software, but only according to the terms of the license that covers the software.
-NARRATOR: Let’s review what we covered last week.
+NARRATOR: Let’s review what we covered earlier.
 BLAKE: Oh man - I have to go through that AGAIN?
 JENNA: Well, maybe this time you should try paying attention.
 
 
 NARRATOR: A software license is a legal document that says what you may do with the software, what you may not do with the software, and what you must do, if you use the software.
 NARRATOR: Software licenses are typically divided into two main groups: commercial (or proprietary licenses), and open source licenses.
-NARRATOR: We looked briefly at commercial software licenses last week. They typically limit what licensees can do with the software. For example, licensees might be limited in the number of copies they can make, or how they can redistribute the code, if at all. Commercial licenses might say customers may not do licensees things, such as reverse-engineering the code. They might specify that licensees must do certain things, such as paying a fee to use the software.
+NARRATOR: We looked briefly at commercial software licenses earlier. They typically limit what licensees can do with the software. For example, licensees might be limited in the number of copies they can make, or how they can redistribute the code, if at all. Commercial licenses might say customers may not do licensees things, such as reverse-engineering the code. They might specify that licensees must do certain things, such as paying a fee to use the software.
 
 
 6. Thu 17 Oct
